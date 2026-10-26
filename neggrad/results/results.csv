@@ -1,0 +1,2 @@
+method,seed,device,test_acc,retain_acc,forget_acc,canary_loss,canary_memorized,train_time_s,request_time_s,peak_mem_mb,gpu_hours,usd,storage_mb
+neggrad_a0.99_forget,0,cpu,0.9909999966621399,0.9956901669502258,0.9983333349227905,10.030354499816895,0,,1.9372903713956475,0.0,0.0005381362142765688,0.0,
